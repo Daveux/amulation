@@ -1,4 +1,4 @@
-# amulation
+# Amulation
 Graphical Implementation of the Simulation of an Amusement Park. 
 
 The aim of this project is simply to provide a simulation experience of an amusement park. 
