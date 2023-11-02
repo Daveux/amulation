@@ -22,9 +22,10 @@ the same window menu.
 Figure 1
 
 ![Figure 2](assets/images/fig2.png "Figure 2")
+
 Figure 2
 
-![Figure 2.1](assets/images/fig2.1png "Figure 2")
+![Figure 2.1](assets/images/fig2.1.png "Figure 2")
 Figure 2.1
 
 The Columbus ride takes the shape of a ship as shown in figure 3. This ride usually moves by
