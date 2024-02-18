@@ -19,6 +19,7 @@ as shown in figure 1 and 2.1 respectively. The colours of the ferris wheel can a
 the same window menu.
 
 ![Figure 1](assets/images/fig1.png "Figure 1")
+
 **Figure 1**
 
 ![Figure 2](assets/images/fig2.png "Figure 2")
